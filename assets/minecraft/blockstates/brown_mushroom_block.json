@@ -532,6 +532,19 @@
 				"up": true,
 				"down": true
 			}
+		},
+		{
+			"apply": {
+				"model": "horizonsend:block/misc/multiblock_workbench"
+			},
+			"when": {
+				"north": true,
+				"south": false,
+				"east": true,
+				"west": false,
+				"up": false,
+				"down": true
+			}
 		}
 	]
 }
