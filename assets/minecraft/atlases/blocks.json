@@ -7,6 +7,18 @@
 		{
 			"type": "single",
 			"resource": "skyboxengine:shader/model/red_nebula"
+		},
+		{
+			"type": "single",
+			"resource": "skyboxengine:shader/model/fracture_nebula"
+		},
+		{
+			"type": "single",
+			"resource": "skyboxengine:shader/model/monolith_nebula"
+		},
+		{
+			"type": "single",
+			"resource": "skyboxengine:shader/model/spine_nebula"
 		}
     ]
 }
